@@ -4,7 +4,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samiksha260904&label=Profile+views&color=a855f7&style=flat-square" />
+
+```bash
+~/samiksha260904 $ who is visiting?
+```
+
+  <img src="https://komarev.com/ghpvc/?username=Samiksha260904&style=flat-square&color=a855f7&label=[ visitors ]" />
+
 </p>
 
 ---
