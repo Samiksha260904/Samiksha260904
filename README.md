@@ -6,13 +6,15 @@
 <p align="center">
 
 ```bash
-~/samiksha260904 $ who is visiting?
-```
+<p align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=Samiksha260904&style=flat-square&color=a855f7&label=[ visitors ]" />
+`~/samiksha260904 $ who is visiting?`
 
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Samiksha260904&style=for-the-badge&color=a855f7&labelColor=0d0d0d&label=VISITORS" />
+</p>
 ---
 
 ### 👩‍💻 About me
