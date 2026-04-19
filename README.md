@@ -1,12 +1,7 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A855F7¢er=true&vCenter=true&width=600&lines=Hi%2C+I'm+Samiksha+Pawar+%F0%9F%91%8B;UI%2FUX+Designer+%26+Web+Developer;Crafting+beautiful+experiences!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Samiksha+Pawar!;UI%2FUX+Designer+%26+Web+Developer;Crafting+beautiful+experiences!" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samiksha260904&label=Profile+views&color=a855f7&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### 👩‍💻 About me
