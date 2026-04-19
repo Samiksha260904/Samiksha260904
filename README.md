@@ -49,11 +49,9 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Samiksha260904&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=80§ion=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=60&section=footer" width="100%"/>
 </p>
