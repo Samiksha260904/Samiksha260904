@@ -5,17 +5,10 @@
 
 <p align="center">
 
-```bash
-<p align="center">
-
-`~/samiksha260904 $ who is visiting?`
-
-</p>
-
+<!-- Visitor counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Samiksha260904&style=for-the-badge&color=a855f7&labelColor=0d0d0d&label=VISITORS" />
 </p>
----
 
 ### 👩‍💻 About me
 
